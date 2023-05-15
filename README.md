@@ -1,1 +1,3 @@
 # Computational-intelligence-course-homeworks
+
+There are some python codes that were written as homeworks of computational intelligence course. These codes are related to implementing artificial neural networks. Unfortunately, I was unable to find the Homeworks requirements to make the code objectives clearer. My learning and use of the Python language are limited to the Computational Intelligence course and completing its assignments during my Master's degree. However, I am eager to develop my knowledge and ability of Python whenever I needed. I uploaded the codes related to these homeworks in this repository.
